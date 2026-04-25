@@ -1,6 +1,6 @@
 id = "one-darker"
 name = "One Darker"
-version = "1.0.0"
+version = "1.0.8"
 schema_version = 1
 authors = ["Albert Bogusz"]
 description = "Derived from the default One Dark theme, with darker colours and opinionated syntax highlighting."
